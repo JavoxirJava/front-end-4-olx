@@ -1,4 +1,4 @@
-import Footer from './Footer/footer'
+import Footer from '../Footer/footer'
 import ProfileHead from './Profile-head/profile-head'
 import './profile.css'
 const Profile = () => {
