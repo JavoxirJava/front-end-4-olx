@@ -2,7 +2,7 @@ import './profile-head.css'
 
 const ProfileHead = () => {
   return (
-    <div className='profile container mb-5'>
+    <div className='profile container mb-4'>
                 <div className="box">
                     <div className="box-head mt-3  d-flex">
                         <img  src="https://www.shutterstock.com/image-vector/vector-flat-illustration-black-colors-600nw-2279039057.jpg" />
